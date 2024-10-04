@@ -1,1 +1,1 @@
-Restful API Crus Using Laravel 11.
+Restful API Crud Using Laravel 11.
